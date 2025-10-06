@@ -5,7 +5,7 @@ import Workout from './components/pages/Workout.vue'
 import Layout from './components/layouts/Layout.vue'
 import { ref } from 'vue'
 
-const selectedDisplayPage = ref(1)
+const selectedDisplayPage = ref(3)
 </script>
 
 <template>
